@@ -1,0 +1,11 @@
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\bin\Debug\netcoreapp1.1\gamerTag.deps.json
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\bin\Debug\netcoreapp1.1\gamerTag.runtimeconfig.json
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\bin\Debug\netcoreapp1.1\gamerTag.runtimeconfig.dev.json
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\bin\Debug\netcoreapp1.1\gamerTag.dll
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.csprojResolveAssemblyReference.cache
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.csproj.CoreCompileInputs.cache
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.AssemblyInfoInputs.cache
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.AssemblyInfo.cs
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\bin\Debug\netcoreapp1.1\gamerTag.pdb
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.dll
+C:\Users\kozin\Desktop\aspnet-gt\gamerTag\gamerTag\obj\Debug\netcoreapp1.1\gamerTag.pdb

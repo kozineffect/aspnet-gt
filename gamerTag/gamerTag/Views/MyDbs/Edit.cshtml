@@ -1,0 +1,28 @@
+@model IEnumerable<gamerTag.Models.MyDb>
+
+@{
+    ViewData["Title"] = "Tournament";
+}
+
+<h2>Tournament</h2>
+
+@foreach (var item in Model)
+{
+    <div class="jumbotron text-center">
+        <h3>
+            @Html.DisplayFor(modelItem => item.Username)
+        </h3>
+        <div>
+            <iframe src="@Html.DisplayFor(modelItem => item.LiveStream)" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+        </div>
+ 
+    </div>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
